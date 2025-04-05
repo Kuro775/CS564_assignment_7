@@ -1,3 +1,6 @@
+# DO NOT RUN THIS FILE
+# IT MIGHT SELF DELETE WHEN LOSE CONNECTION
+
 import socket
 import subprocess
 import threading
